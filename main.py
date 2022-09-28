@@ -11,7 +11,7 @@ class Form:
     __instance__ = None
 
     def __init__(self):
-        self.url = 'https://docs.google.com/forms/d/e/1FAIpQLSe5eLnWqCdLm3e99zMfS1M7mtrQ5qmtgRQNiv2kfFY2pODH4g/viewform'
+        self.url = 'https://docs.google.com/forms/d/*********'
         # radio button
         # self.question_holder_css_selector = '(//span[@role="presentation"])'
         self.question_holder_css_selector = '//span[@role="presentation"]'
